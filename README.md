@@ -1,2 +1,2 @@
 # FirstGoProject
-simple tickting app
+simple booking app
